@@ -1,0 +1,8 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2020-10-27 16:00:41 +0800"
+    },
+    "done": false
+  }
+}
